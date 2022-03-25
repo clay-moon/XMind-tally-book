@@ -3,11 +3,11 @@
 ## 安装
 ### 项目地址
 ```
-git clone git@github.com:clay-moon/Recode_System.git
+git clone git@github.com:clay-moon/XMind-tally-book.git
 ```
 ### 进入文件夹
 ```
-cd Recode_System
+cd xmind
 ```
 ### 安装依赖
 ```
