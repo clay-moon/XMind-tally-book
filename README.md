@@ -25,12 +25,12 @@ npm run build
 ### 主界面
 ![image](https://user-images.githubusercontent.com/90896142/160086414-6b19b42d-4a76-4cb5-83e0-aebc9f473b58.png)
 
-![image](https://user-images.githubusercontent.com/90896142/160085809-cb40413f-8514-4859-b259-b4f56136b7b7.png)
+
 
 ###添加账单
 ![image](https://user-images.githubusercontent.com/90896142/160086337-e1a3afb4-5afe-4ab1-8d02-846634ab0664.png)
 
-![image](https://user-images.githubusercontent.com/90896142/160086051-42e42e99-d3a1-4c1d-86d6-0304a3810050.png)
+
 
 ###月份筛选
 ![image](https://user-images.githubusercontent.com/90896142/160086219-cfaad200-a727-49db-897d-6836dfab0add.png)
