@@ -7,7 +7,7 @@ git clone git@github.com:clay-moon/XMind-tally-book.git
 ```
 ### 进入文件夹
 ```
-cd xmind
+cd XMind-tally-book
 ```
 ### 安装依赖
 ```
